@@ -1,0 +1,3 @@
+Name: Vadim, Phone: 1234, Visit date: 2011-05-24Name: , Phone: , Visit date: Name: , Phone: , Visit date:  
+Name: Vadim2, Phone: 12345, Visit date: 2011-05-24 
+Name: Vadim3, Phone: 12345, Visit date: 2011-05-24 
