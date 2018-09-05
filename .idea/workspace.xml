@@ -31,15 +31,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="passcheck.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson18/passcheck.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="weakness.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson18/weakness.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,15 +45,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="netdemo2.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson18/netdemo2.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -85,29 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson19/views/index.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson19/views/welcome.erb">
+      <file leaf-file-name="barbershop.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson20/barbershop.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson19/views/error.erb">
+      <file leaf-file-name="index.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson20/views/index.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="133">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -130,6 +112,8 @@
         <option value="$PROJECT_DIR$/lesson19/app1.rb" />
         <option value="$PROJECT_DIR$/lesson19/views/error.erb" />
         <option value="$PROJECT_DIR$/lesson19/views/index.erb" />
+        <option value="$PROJECT_DIR$/lesson20/barbershop.rb" />
+        <option value="$PROJECT_DIR$/lesson20/index.erb" />
       </list>
     </option>
   </component>
@@ -176,6 +160,17 @@
               <item name="lesson19" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson20" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -188,6 +183,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson20/views" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -316,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532724178179</updated>
       <workItem from="1532724180889" duration="3124000" />
-      <workItem from="1536014342328" duration="15318000" />
+      <workItem from="1536014342328" duration="15923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18442000" />
+    <option name="totallyTimeSpent" value="19047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="0" />
@@ -492,17 +492,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson19/views/error.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20/barbershop.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson18/netdemo3.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson19/views/welcome.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -513,17 +520,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson19/views/error.erb">
+    <entry file="file://$PROJECT_DIR$/lesson19/views/index.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson19/views/index.erb">
+    <entry file="file://$PROJECT_DIR$/lesson19/views/welcome.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20/views/index.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
