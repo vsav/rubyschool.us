@@ -1,5 +1,6 @@
 <h1>Welcome to our barbershop!</h1>
 <p>You can plan your visit below:</p>
+
 <form action="/" method ="POST">
   Your name: <br>
   <input type="text" name="name"/><br>
@@ -8,4 +9,12 @@
   Date: <br>
   <input type="date" name="date"/><br>
   <input type="submit" name="submit"/>
+</form>
+
+<form action="/admin" method="POST">
+      Admin login: <br>
+  <%=@error %> <br>
+      <input type="text" name="admin"/>
+      <input type="password" name="password"/>
+      <input type="submit"/>
 </form>
