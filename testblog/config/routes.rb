@@ -1,10 +1,16 @@
 Rails.application.routes.draw do
-  get 'home/contacts'
+  devise_for :users
+  root to: "home#index"
+
   get 'home/index'
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  get 'terms' => 'pages#terms'
+  get 'about' => 'pages#about'
 
-  resources :articles;
-            :home
-
-  resource :contacts, only: [:new, :create]
+  resource :contacts, only: [:new, :create], path_names: { :new => ''} #чтобы вид new выводился по ссылке /contacts, а не /contacts/new
+  resources :articles do
+    resources :comments
+  end
 end
+
+
+# For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html

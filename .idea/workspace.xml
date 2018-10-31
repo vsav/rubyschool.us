@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a91bc73-f76b-41b4-9481-0bf064d984e4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/rubyschool.us.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rubyschool.us.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson20/barbershop.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lesson20/barbershop.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson20/views/index.erb" beforeDir="false" afterPath="$PROJECT_DIR$/lesson20/views/index.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson20/visits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson20/visits.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/controllers/articles_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/controllers/articles_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/controllers/contacts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/controllers/contacts_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/models/article.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/models/article.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/models/contact.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/models/contact.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/views/articles/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/views/articles/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/views/contacts/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/views/contacts/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/views/home/contacts.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/views/home/contacts.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/views/home/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/config/boot.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/config/boot.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/config/locales/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testblog/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/testblog/db/schema.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +38,12 @@
     <SUITE FILE_PATH="coverage/rubyschool_us@netdemo2.rcov" NAME="netdemo2 Coverage Results" MODIFIED="1536103424126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@static.rcov" NAME="static Coverage Results" MODIFIED="1532728435753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson16" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@app1.rcov" NAME="app1 Coverage Results" MODIFIED="1536118856584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson19" MODULE_NAME="rubyschool.us" />
+    <SUITE FILE_PATH="coverage/rubyschool_us@fizzbuzz.rcov" NAME="fizzbuzz Coverage Results" MODIFIED="1539606972806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@lamda_demo.rcov" NAME="lamda_demo Coverage Results" MODIFIED="1532729438808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson16" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@netdemo3.rcov" NAME="netdemo3 Coverage Results" MODIFIED="1536118465197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@file_read.rcov" NAME="file_read Coverage Results" MODIFIED="1536018979617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson17" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@weakness.rcov" NAME="weakness Coverage Results" MODIFIED="1536098259255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18" MODULE_NAME="rubyschool.us" />
-    <SUITE FILE_PATH="coverage/rubyschool_us@WordCount.rcov" NAME="WordCount Coverage Results" MODIFIED="1538684453756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyschool.us" />
+    <SUITE FILE_PATH="coverage/rubyschool_us@WordCount.rcov" NAME="WordCount Coverage Results" MODIFIED="1539605445926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyschool.us" />
     <SUITE FILE_PATH="coverage/rubyschool_us@netdemo.rcov" NAME="netdemo Coverage Results" MODIFIED="1536101191993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18" MODULE_NAME="rubyschool.us" />
   </component>
   <component name="DatabaseView">
@@ -38,91 +57,96 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="barbershop" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testblog/config/routes.rb">
+      <file leaf-file-name="en.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/config/locales/en.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visitor_create_contact_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/spec/features/visitor_create_contact_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visitor_sign_up_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/spec/features/visitor_sign_up_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_create_article_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/spec/features/user_create_article_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/spec/support/session_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_cleaner.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testblog/spec/support/database_cleaner.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/views/home/contacts.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/views/home/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/views/articles/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/controllers/application_controller.rb">
+        <entry file="file://$PROJECT_DIR$/testblog/app/views/contacts/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/controllers/contacts_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="articles_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/controllers/articles_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/.gitignore">
+      <file leaf-file-name="create.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/app/views/contacts/create.html.erb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="config.ru" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/config.ru">
+      <file leaf-file-name="application.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testblog/config/application.rb">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="home_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testblog/app/controllers/home_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -140,6 +164,7 @@
       <find>setlo</find>
       <find>options</find>
       <find>setdate</find>
+      <find>rake</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,57 +173,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson24/views/visit.erb" />
-        <option value="$PROJECT_DIR$/lesson24/views/contacts.erb" />
-        <option value="$PROJECT_DIR$/lesson24/app.rb" />
-        <option value="$PROJECT_DIR$/lesson25/app.rb" />
-        <option value="$PROJECT_DIR$/Barbershop/public/jquery.datetimepicker.js" />
-        <option value="$PROJECT_DIR$/Barbershop/views/showusers.erb" />
-        <option value="$PROJECT_DIR$/Barbershop/views/layout.erb" />
-        <option value="$PROJECT_DIR$/Barbershop/views/contacts.erb" />
-        <option value="$PROJECT_DIR$/Barbershop/views/about.erb" />
-        <option value="$PROJECT_DIR$/Barbershop/views/visit.erb" />
-        <option value="$PROJECT_DIR$/Barbershop/app.rb" />
-        <option value="$PROJECT_DIR$/Barbershop/views/showvisitors.erb" />
-        <option value="$PROJECT_DIR$/Lepra/views/layout.erb" />
-        <option value="$PROJECT_DIR$/Lepra/.gitignore" />
-        <option value="$PROJECT_DIR$/Lepra/views/new.erb" />
-        <option value="$PROJECT_DIR$/Lepra/app.rb" />
-        <option value="$PROJECT_DIR$/Lepra/views/comments.erb" />
-        <option value="$PROJECT_DIR$/Lepra/views/posts.erb" />
-        <option value="$PROJECT_DIR$/Barbershop_v2/Gemfile" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/Gemfile" />
-        <option value="$PROJECT_DIR$/Barbershop_v2/app.rb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/Rakefile" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/db/migrate/20180915120823_create_visitors.rb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/.gitignore" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/db/migrate/20180915122402_create_masters.rb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/db/migrate/20180926213747_create_contacts.rb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/views/index.erb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/views/layout.erb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/views/visitors.erb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/views/visitor.erb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/views/master.erb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/app.rb" />
-        <option value="$PROJECT_DIR$/BarbershopHQ/views/visit.erb" />
-        <option value="$PROJECT_DIR$/PizzaShop/Rakefile" />
-        <option value="$PROJECT_DIR$/PizzaShop/Gemfile" />
-        <option value="$PROJECT_DIR$/PizzaShop/db/migrate/20180927220256_create_products.rb" />
-        <option value="$PROJECT_DIR$/PizzaShop/db/migrate/20180927222512_add_products.rb" />
-        <option value="$PROJECT_DIR$/PizzaShop/views/order.erb" />
-        <option value="$PROJECT_DIR$/PizzaShop/app.rb" />
-        <option value="$PROJECT_DIR$/PizzaShop/views/index.erb" />
-        <option value="$PROJECT_DIR$/PizzaShop/views/about.erb" />
-        <option value="$PROJECT_DIR$/PizzaShop/views/layout.erb" />
-        <option value="$PROJECT_DIR$/PizzaShop/public/main.js" />
-        <option value="$PROJECT_DIR$/WordCount.rb" />
-        <option value="$PROJECT_DIR$/PizzaShop/views/cart.erb" />
-        <option value="$PROJECT_DIR$/testblog/app/views/articles/new.html.erb" />
-        <option value="$PROJECT_DIR$/testblog/app/controllers/articles_controller.rb" />
-        <option value="$PROJECT_DIR$/testblog/app/views/home/contacts.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/controllers/about_controller.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/testblog/app/views/terms/new.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/articles/create.html.erb" />
         <option value="$PROJECT_DIR$/testblog/app/controllers/home_controller.rb" />
-        <option value="$PROJECT_DIR$/testblog/app/controllers/contacts_controller.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/about/index.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/about/new.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/controllers/pages_controller.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/pages/about.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/pages/terms.html.erb" />
         <option value="$PROJECT_DIR$/testblog/config/routes.rb" />
+        <option value="$PROJECT_DIR$/RSPEC demo/hero.rb" />
+        <option value="$PROJECT_DIR$/RSPEC demo/hero_spec.rb" />
+        <option value="$PROJECT_DIR$/RSPEC demo/car_spec.rb" />
+        <option value="$PROJECT_DIR$/RSPEC demo/car.rb" />
+        <option value="$PROJECT_DIR$/testblog/config/environments/development.rb" />
+        <option value="$PROJECT_DIR$/testblog/db/migrate/20181019154533_add_username.rb" />
+        <option value="$PROJECT_DIR$/testblog/db/migrate/20181019155321_add_username_index.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/devise/registrations/new.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/comments/edit.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/articles/edit.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/articles/new.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/comments/show.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/controllers/articles_controller.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/assets/stylesheets/application.scss" />
+        <option value="$PROJECT_DIR$/testblog/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/controllers/comments_controller.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/articles/show.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/articles/index.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/home/index.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/spec/models/contact_spec.rb" />
+        <option value="$PROJECT_DIR$/testblog/config/boot.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/support/factory_girl.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/factories/comments.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/factories/articles.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/models/article.rb" />
+        <option value="$PROJECT_DIR$/testblog/app/models/comment.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/models/article_spec.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/models/comment_spec.rb" />
+        <option value="$PROJECT_DIR$/sample-blog/app/views/contacts/new.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/app/views/contacts/new.html.erb" />
+        <option value="$PROJECT_DIR$/testblog/config/locales/en.yml" />
+        <option value="$PROJECT_DIR$/testblog/spec/features/visitor_create_contact_spec.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/features/user_create_article_spec.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/features/visitor_sign_up_spec.rb" />
+        <option value="$PROJECT_DIR$/testblog/spec/support/session_helper.rb" />
+        <option value="$PROJECT_DIR$/testblog/Gemfile" />
+        <option value="$PROJECT_DIR$/testblog/spec/support/database_cleaner.rb" />
       </list>
     </option>
   </component>
@@ -217,6 +242,9 @@
     <option name="y" value="23" />
     <option name="width" value="2560" />
     <option name="height" value="1337" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -246,7 +274,77 @@
               <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
               <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
               <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="contacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="locales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool.us" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool.us" type="462c0819:PsiDirectoryNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,21 +353,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="last_comment&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/BarbershopHQ/public/vendor" />
-      <recent name="$PROJECT_DIR$/BarbershopHQ/views" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testblog/app/views/abouts" />
       <recent name="$PROJECT_DIR$/BarbershopHQ/public" />
       <recent name="$PROJECT_DIR$/BarbershopHQ/public/vendor" />
       <recent name="$PROJECT_DIR$/lesson20/views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BarbershopHQ/public/vendor" />
+      <recent name="$PROJECT_DIR$/BarbershopHQ/views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,7 +384,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.WordCount">
+  <component name="RunManager" selected="Ruby.fizzbuzz">
     <configuration name="WordCount" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool.us" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -319,10 +419,10 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson19/app1.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="netdemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="fizzbuzz" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool.us" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lesson18" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -333,7 +433,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lesson18/netdemo.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/fizzbuzz.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <configuration name="netdemo2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -371,19 +471,19 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.netdemo" />
       <item itemvalue="Ruby.netdemo3" />
       <item itemvalue="Ruby.netdemo2" />
       <item itemvalue="Ruby.app1" />
       <item itemvalue="Ruby.WordCount" />
+      <item itemvalue="Ruby.fizzbuzz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.fizzbuzz" />
         <item itemvalue="Ruby.WordCount" />
         <item itemvalue="Ruby.app1" />
         <item itemvalue="Ruby.netdemo3" />
         <item itemvalue="Ruby.netdemo2" />
-        <item itemvalue="Ruby.netdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -404,12 +504,13 @@
       <workItem from="1537166675387" duration="600000" />
       <workItem from="1537990452393" duration="76694000" />
       <workItem from="1539425853833" duration="205000" />
-      <workItem from="1539535661072" duration="1589000" />
+      <workItem from="1539535661072" duration="105299000" />
+      <workItem from="1540818242373" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170562000" />
+    <option name="totallyTimeSpent" value="274798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,18 +523,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2660842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2680699" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841145" weight="0.32983872" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50119144" side_tool="true" visible="true" weight="0.32983872" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015886" side_tool="true" weight="0.33548388" />
       <window_info anchor="right" id="Database" order="3" weight="0.32962668" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4988086" visible="true" weight="0.32983872" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841145" weight="0.32983872" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32983872" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980143" weight="0.32983872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992057" weight="0.33548388" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49841145" visible="true" weight="0.33548388" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,7 +542,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960285" weight="0.32983872" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4992057" weight="0.32983872" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,255 +583,96 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/views/index.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/db/migrate/20181016131841_devise_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/controllers/articles_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="684">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Barbershop/views/visit.erb">
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/controllers/comments_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/config/spring.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/articles/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/views/visitors.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="114">
+          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/views/master.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/articles/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="247">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/views/visitor.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/assets/stylesheets/application.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="534">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Barbershop/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lepra/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" column="3" lean-forward="true" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/db/migrate/20180927220256_create_products.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BarbershopHQ/views/visit.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="68" selection-start-line="68" selection-end-line="73" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/views/about.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/comments/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/views/index.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/comments/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="171">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/db/migrate/20180927222512_add_products.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/views/layout.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="43" selection-start-line="43" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/public/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/views/cart.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/views/order.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PizzaShop/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/models/application_record.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/models/article.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/models/contact.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/helpers/home_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/helpers/articles_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/spring.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/Rakefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/db/migrate/20181004212254_create_contacts.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/boot.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/cable.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/credentials.yml.enc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/environment.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/master.key">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/puma.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/db/migrate/20181004204046_create_articles.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WordCount.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config.ru">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/views/home/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/views/articles/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/testblog/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/controllers/comments_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testblog/app/controllers/articles_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="836">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/controllers/home_controller.rb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/articles/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="456">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/controllers/application_controller.rb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/devise/sessions/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret selection-end-line="25" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -742,17 +683,216 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/app/controllers/contacts_controller.rb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/articles/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testblog/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/testblog/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/home/create.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="35" column="111" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/config/boot.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/models/article.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/lib/rake/task_manager.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="205" column="15" selection-start-line="205" selection-start-column="15" selection-end-line="205" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/models/contact_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/models/contact.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/models/comment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/support/factory_girl.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/factories/comments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/factories/articles.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/models/article.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/models/article_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/models/comment_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/views/contacts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/views/contacts/create.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-blog/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/config/locales/devise.en.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/config/locales/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/contacts/create.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/app/views/contacts/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/features/visitor_create_contact_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/features/visitor_sign_up_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/features/user_create_article_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/support/session_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testblog/spec/support/database_cleaner.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>

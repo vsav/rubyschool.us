@@ -1,1 +1,28 @@
-Contact us
+<div class="container">
+  <br>
+  <h4><%= t('contacts.contact_us') %></h4>
+  <br>
+  <%= form_for :contact, url: contacts_path do |f| %>
+    <% if @contact && @contact.errors.any? %>
+      <p class="lead">
+      <ul>
+        <% @contact.errors.full_messages.each do |msg|%>
+          <li><%=msg%></li>
+        <% end %>
+      </ul>
+      </p>
+    <% end %>
+
+    <p class="lead">
+      <%= f.label :email %> <br>
+      <%= f.text_field :email %>
+    </p>
+    <p class="lead">
+      <%= f.label :message %> <br>
+      <%= f.text_area :message, :rows => '5', :cols => '50' %>
+    </pclass>
+    <p class="lead">
+      <%= f.submit 'Yarr!', :class => 'btn btn-primary' %>
+    </p>
+  <% end %>
+</div>
